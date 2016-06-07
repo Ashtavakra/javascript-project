@@ -1,0 +1,8 @@
+div{
+	background-color: violet;
+	float: left;
+}
+
+.myclass{
+	clear: left;
+}
